@@ -4,7 +4,7 @@
 
 Built in one day at *Build with Gemma: GDGoC Aberdeen* (26 July 2026). You commit to a study block; **Gemma 4** prices you from your own history of what you avoid — or refuses to recommend the bet and counter-offers a version you can win. Your friends buy Yes or No. While you work, idle time drifts your price down in public, and Gemma fires a margin call at the moment of avoidance. At the end you photograph your worked pages and Gemma — as a multimodal resolution oracle — judges whether real work happened. Settlement moves the leaderboard, and today's result is tomorrow's odds.
 
-**Live demo:** hhttps://adamazeb.github.io/BACKED-google-hackathon/ · **Writeup:** [kaggle-writeup.md](kaggle-writeup.md)
+**Live demo:** https://adamazeb.github.io/BACKED-google-hackathon/ · **Writeup:** [kaggle-writeup.md](kaggle-writeup.md)
 
 ## Run it
 
